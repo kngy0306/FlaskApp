@@ -1,0 +1,21 @@
+* {
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.member {
+  text-align: center;
+  width: 300px;
+  margin: 30px auto;
+}
+
+button {
+  margin-top: 30px;
+  width: 290px;
+  height: 50px;
+}
+
+button:hover {
+  background-color: #777;
+}
